@@ -10,7 +10,7 @@ It helps users analyze short texts (e.g., tweets, headlines, claims) and identif
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/roey19630/truthlens.git
-cd truthlens_project
+cd truthlens
 ```
 
 ### 2. Create a virtual environment
@@ -86,4 +86,5 @@ This project was created as part of the course:
 ![example2](screenshots/photo2.png)
 
 ### example3
+
 ![example3](screenshots/photo3.png)
