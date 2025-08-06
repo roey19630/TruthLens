@@ -73,7 +73,9 @@ You can enter any short statement or tweet, and the AI will analyze it for misin
 This project was created as part of the course:  
 🧠 **"בין תיאוריה למעשה – אתגרי עולם המחשוב"**  
 📅 Year: 2025  
-🎓 Student: Roey Yonayov  
+🎓 Student: Roey Yonayov
+UserName: roeyyo
+e-mail: roeyyo@edu.jmc.ac.il , roey19630@gmail.com
 
 ---
 
@@ -88,3 +90,4 @@ This project was created as part of the course:
 ### example3
 
 ![example3](screenshots/photo3.png)
+
